@@ -7,7 +7,7 @@ This extension allows you to use zatca phase2 in KSA develope by Eng/Mohammed al
 
 ### Installation Using Composer (Recommended)
 ```bash
-composer require mohammadzat/zatca
+composer require mohammadzat/zatca:"dev-main"
 
 
 ```
