@@ -172,7 +172,8 @@ header('Content-Type: ' . $result->getMimeType());
 # After running above code 
 go to public directory and browse folder invoice and upload to Zatca test xml to show compliance results 
 https://sandbox.zatca.gov.sa/TestXML
-
+or scan barcode 
+![IMG_٢٠٢٤٠٩١٩_٠٠٢٩٤١](https://github.com/user-attachments/assets/7b8302a7-d6c3-4912-8eab-309bfcea5fb4)
 
 ```bash
 <?xml version="1.0" encoding="UTF-8"?>
